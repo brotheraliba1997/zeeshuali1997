@@ -1,0 +1,54 @@
+* {
+    background-color: #17202A;
+}
+
+.image{
+    float: left;
+}
+
+.detail{
+    width: 1150px;
+    height: 200px;
+    /* background-color: red; */
+    color: white;
+    float: right;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+
+.free {
+    color: green;
+    font-style: italic;
+}
+
+
+.newheading{
+    width: 250px;
+    height: 30px;
+    /* background-color: red;
+    color: red; */
+    float: left;
+}
+
+
+.seooptimization{ 
+    float: right;
+    width: 450px;
+    height: 20px;
+    margin-top: 60px;
+}
+
+
+
+.database{
+    margin-top: 250px;
+    
+}
+
+.DataSecurity{
+    /* background-color: red;
+    color: red; */
+    margin-top: 20px;
+  
+}
